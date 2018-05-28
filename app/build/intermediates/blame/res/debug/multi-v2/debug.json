@@ -1,0 +1,134 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\BindingData\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\BindingData\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "183",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "317"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\BindingData\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\BindingData\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "227",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "375"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\BindingData\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\BindingData\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "206",
+                        "endColumns": "58",
+                        "endOffsets": "260"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\BindingData\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\BindingData\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,525",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "484,682"
+                    },
+                    "to": {
+                        "startLines": "17,24",
+                        "startColumns": "4,4",
+                        "startOffsets": "646,937",
+                        "endLines": "23,26",
+                        "endColumns": "12,12",
+                        "endOffsets": "932,1092"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\BindingData\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "325,383",
+                        "endColumns": "57,55",
+                        "endOffsets": "378,434"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\BindingData\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "7,5,3,6,4",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "270,156,59,210,109",
+                        "endLines": "15,5,3,6,4",
+                        "endColumns": "19,52,48,58,45",
+                        "endOffsets": "550,204,103,264,150"
+                    },
+                    "to": {
+                        "startLines": "2,13,14,15,16",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,439,492,541,600",
+                        "endLines": "10,13,14,15,16",
+                        "endColumns": "19,52,48,58,45",
+                        "endOffsets": "320,487,536,595,641"
+                    }
+                }
+            ]
+        }
+    ]
+}
